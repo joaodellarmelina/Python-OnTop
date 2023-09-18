@@ -85,4 +85,5 @@ try:
           print("Bye Bye!")
 
 except Exception: 
-   print("Informe um valor válido")
+   print("Você não foi legal... :(")
+   print("Digíte um número inteiro, poxa!")

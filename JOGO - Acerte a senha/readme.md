@@ -27,10 +27,11 @@ ___
 ___
 
 ##### Coloquei vários conhecimentos em **Python** para conseguir executar essa atividade como:
-- Função
-- Sistema de Loop
-- Váriavel
-- Condional
+- Função;
+- Sistema de Loop;
+- Váriavel;
+- Condional;
+- Tratamento de erros;
 - Entre muitos outros...
 
 ![CODE](img/code.png)
